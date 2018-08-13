@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.GreeterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-20T14:47:09" hostname="Gabriels-MacBook-Pro.local" time="0.0">
+  <properties/>
+  <testcase name="shouldDisplayHelloWorld" classname="hello.GreeterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

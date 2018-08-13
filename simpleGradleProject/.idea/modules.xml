@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simpleGradleProject.iml" filepath="$PROJECT_DIR$/simpleGradleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simpleGradleProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/simpleGradleProject_main.iml" group="simpleGradleProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simpleGradleProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/simpleGradleProject_test.iml" group="simpleGradleProject" />
+    </modules>
+  </component>
+</project>

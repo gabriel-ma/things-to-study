@@ -1,0 +1,16 @@
+{
+  "name": "firstnodeexpressapi",
+  "version": "1.0.0",
+  "description": "First Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "run_test"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {}
+}
